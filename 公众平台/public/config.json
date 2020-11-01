@@ -1,0 +1,5 @@
+{
+  "baseURL1":"http://114.116.105.49:8088/StatisticsApi/api",
+  "baseURL2":"http://47.107.104.211:8089/StatisticsApi/api",
+  "baseURL":"http://172.18.0.60:8600/StatisticsApi/api"
+}

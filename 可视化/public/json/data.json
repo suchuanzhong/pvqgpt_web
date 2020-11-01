@@ -1,0 +1,26 @@
+{
+  "videoData":[
+    {"pic":"img/0.gif","name":"领跑电价","url": {"height":418,"index":0,"position":"center","service_id":"browser.open","title":"领跑电价","url":"http://172.18.0.60:9250/web/electrovalence","width":957}},
+    {"pic":"img/0.gif","name":"统计更多","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"更多","url":"http://172.18.0.60:9250/web/statisticsStation","width":1200}}
+  ],
+  "QjtData":
+  [
+
+  ],
+  "resourceData":[
+	{"pic":"img/0.gif","name":"光资源","url": {"height":418,"index":0,"position":"center","service_id":"browser.open","title":"光资源","url":"http://172.18.0.60:9250/web/dayEffic","width":957}},
+    {"pic":"img/0.gif","name":"各基地发电量汇总表","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"各基地发电量汇总表","url":"http://172.18.0.60:9250/web/tableEconomic","width":1200}},
+    {"pic":"img/0.gif","name":"全景图","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"全景图","url":"http://172.18.0.60:9250/web/photovoltaic","width":1200}},
+    {"pic":"img/0.gif","name":"当日运行功率","url": {"height":418,"index":0,"position":"center","service_id":"browser.open","title":"当日运行功率","url":"http://172.18.0.60:9250/web/dalogEcharts","width":957}},
+    {"pic":"img/0.gif","name":"当日辐射量","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"当日辐射量","url":"http://172.18.0.60:9250/web/dayEfficBar","width":1200}},
+    {"pic":"img/0.gif","name":"当日发电量及利用小时数","url": {"height":418,"index":0,"position":"center","service_id":"browser.open","title":"当日发电量及利用小时数","url":"http://172.18.0.60:9250/web/dayNumberBar","width":957}},
+    {"pic":"img/0.gif","name":"组件监测","url": {"height":710,"index":0,"position":"center","service_id":"browser.open","title":"组件监测","url":"http://172.18.0.60:9250/web/componentMonitoring","width":960}},
+    {"pic":"img/0.gif","name":"组件价格趋势分析更多数据弹框","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"组件价格趋势分析更多数据","url":"http://172.18.0.60:9250/web/ComponentMore","width":1200}},
+    {"pic":"img/0.gif","name":"组件占比趋势分析更多数据弹框","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"组件占比趋势分析更多数据","url":"http://172.18.0.60:9250/web/AccountedMore","width":1200}},
+    {"pic":"img/0.gif","name":"组件转换效率趋势分析更多数据弹框","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"组件转换效率趋势分析更多数据","url":"http://172.18.0.60:9250/web/ConversionMore","width":1200}},
+    {"pic":"img/0.gif","name":"逆变器分析更多","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"逆变器分析更多","url":"http://172.18.0.60:9250/web/InverterMore","width":1200}},
+    {"pic":"img/0.gif","name":"支架分析更多数据","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"支架分析更多数据","url":"http://172.18.0.60:9250/web/ElectricityMore","width":1200}},
+    {"pic":"img/0.gif","name":"发电能效分析更多弹框","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"发电能效分析更多","url":"http://172.18.0.60:9250/web/GenerationMore","width":1200}},
+    {"pic":"img/0.gif","name":"效益更多数据分析","url": {"height":900,"index":0,"position":"center","service_id":"browser.open","title":"效益更多数据分析","url":"http://172.18.0.60:9250/web/BenefitMore","width":1200}}
+  ]
+}

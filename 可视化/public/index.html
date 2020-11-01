@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <link rel="stylesheet" href="./3dpachage/Cesium/Widgets/widgets.css" />
+    <title>光伏领跑基地综合信息可视化平台</title>
+    <!-- <script src="./Home/left.html"></script> -->
+    <script>
+        var commonURL = 'http://172.18.0.37:8100/api/'; //公共接口地址
+     </script>
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/config.js"></script>
+    <script src="./3dpachage/Cesium/Cesium.js"></script>
+    <script src="./3dpachage/extends/CesiumMeshVisualizer.js"></script>
+    <script src="./3dpachage/extends/Common.js"></script>
+    <script src="./3dpachage/extends/ysc.js"></script>
+    <script src="../libs/resafety/build/resafety-1.19.5.min.js"></script>
+    <script src="./js/resafety_page.js"></script>
+    <script src="./js/line.js"></script>
+    <script src="./js/3DUtil3840.js"></script>
+</head>
+
+<body>
+    <noscript>
+      <strong>We're sorry but geological doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+</body>
+<style>
+    .cesium-viewer-bottom {
+        display: none !important;
+    }
+</style>
+
+</html>

@@ -1,0 +1,215 @@
+
+
+@font-face {
+    font-family: 'number';
+    src:url('./../../../static/font/DINOT_0.woff') format('woff'),
+}
+@font-face {
+    font-family: 'big-number';
+    src:url('./../../../static/font/DINCond-Bold.woff') format('woff'),
+}
+// @font-face {
+//     font-family: 'pingfang-light';
+//     src:url('./../../../static/font/pingfang-light.woff') format('woff'),
+// }
+@font-face {
+    font-family: 'pingfang-blod';
+    src:url('./../../../static/font/pingfang-blod.woff') format('woff'),
+}
+@font-face {
+    font-family: 'pingfang-regular';
+    src:url('./../../../static/font/pingfang-regular.woff') format('woff'),
+}
+.mint-indicator-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.view-container{
+    height: 100%;
+    position: relative;
+}
+i {
+    font-style: normal;
+  }
+.groupWrap .weui-cells.vux-no-group-title{
+    margin-top: 0!important;
+}
+.mint-header{
+    background: linear-gradient(to right, #65be24 0%, #48a73c 50%, #65be24 100%);
+    height: 0.5rem;
+    font-size: 0.20rem;
+   
+}
+.mint-header-title{
+    font-family: 'pingfang-blod';
+}
+.mint-tabbar > .mint-tab-item.is-selected{
+    color: #68bc32;
+    background: none;
+}
+.vux-cell-value{
+    margin-right: 5px;
+}
+.vux-datetime{
+    font-size: 0.16rem;
+}
+
+.soltTitleMounth {
+    display: flex;
+    align-items: center;
+    color: #333;
+    img {
+      margin-right: 0.1rem;
+    }
+  }
+  .mint-header-button.is-left{
+      .mintui.mintui-back{
+          font-size: 0.20rem;
+      }
+  }
+// 运行分析子页面样式
+.runAly {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .viewWrap {
+    flex: 1;
+    overflow-x: hidden;
+  }
+  .soltTitle {
+    display: flex!important;
+    align-items: center!important;
+    color:#333;
+    font-size: 16px;
+    img {
+      margin-right: 0.1rem;
+    }
+  }
+  .vux-popup-picker-value.vux-cell-value{
+    font-size: 16px;
+  }
+  .indexBox {
+    .label {
+      box-sizing: border-box;
+      border-left: 4px solid #68bc32;
+      padding-top: 0.1rem;
+      color: #333;
+      padding-left: 0.1rem;
+      font-weight: 500;
+      display: flex;
+      span{
+        flex: 1;
+      }
+    }
+    .info {
+      display: flex;
+      padding: 0 0.06rem;
+      padding-bottom:  0.1rem;
+      & > p {
+        flex: 1;
+        border-left: 1px solid rgba(230, 230, 230, 0.685);
+        padding: 0 0.08rem ;
+        label {
+          display: inline-block;
+          width: 100%;
+          font-weight: 500;
+          font-size: 0.16rem;
+          padding-bottom: 0.05rem ;
+        }
+        .generateColor{
+          color: #68bc32;
+        }
+        .generateStaColor{
+          color: #ff9810;
+        }
+        span {
+          color: #ff9810;
+          font-family: "DIN OT";
+          font-size: 0.18rem;
+        }
+        i {
+          color: #666;
+          font-size: 0.16rem;
+          font-size: 0.14rem;
+        }
+      }
+      & > p:first-child{
+          border-left: 0;
+      }
+    }
+
+    .weui-cell {
+        // padding: 0.18rem 0.15rem;
+        padding: 0;
+      }
+      margin: 0 0.1rem;
+      .weui-cells.vux-no-group-title {
+        margin-top: 0.08rem !important;
+        border-radius: 4px;
+        border: 1px solid #d9d9d9;
+        .vux-cell-bd.vux-cell-primary p {
+          display: flex;
+          align-items: center;
+        }
+      }
+      .value {
+        color: #ff9810;
+        font-size: 0.2rem;
+      }
+      .weui-cells:before,.weui-cells:after {
+        border: none;
+      }
+
+  }
+
+}
+// 日月年时间切换
+.view-box {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #e4e4e4;
+  background: #fff;
+  & > span {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+  }
+  .timeChange {
+  display: flex;
+  margin-left: 0.1rem;
+  p {
+    font-size: 0;
+    span {
+      color: #333;
+      display: inline-block;
+      font-size: 0.16rem;
+      padding: 0.02rem 0.12rem 0.01rem;
+      box-sizing: border-box;
+    }
+  }
+  .isSelTime {
+    background: url("../../../static/img/border.png") no-repeat;
+    background-size: 0.4rem 0.18rem;
+    span {
+      color: #68bc32;
+    }
+  }
+}
+}
+.timeChangeSel {
+  width: 50%;
+}
+
+// 没有数据
+.no-data-show{
+  text-align: center;
+  font-size: 0.16rem;
+  background: #fff;
+  padding: 0.3rem;
+  color: #333;
+}
+

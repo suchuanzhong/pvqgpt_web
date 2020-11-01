@@ -1,0 +1,1443 @@
+{
+    "产业升级":
+    {
+        "基地定位":[{
+            "service_id": "camera.locate",
+            "time": 1000,
+            "pos_pose": [
+                {
+                    "x": 117.041981,
+                    "y": 34.876165,
+                    "z": 17064.113401,
+                    "course": 31.4235,
+                    "alpha": 89.2207,
+                    "roll": 0
+                }
+            ]
+        }],
+        "光资源关闭":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-光资源区"
+        }],
+        "调用发展历程标题":[{
+            "id": "202008151551",
+            "title": "顶部标题"
+        }],
+        "关闭发展历程标题":[{
+            "id": "202008151551",
+            "title": "顶部标题"
+        }],
+        "调用全国平台第一批基地":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-第一批基地"
+        }],
+        "关闭全国平台第一批基地":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-第一批基地"
+        }],
+        "调用全国平台第二批基地":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-第二批基地"
+        }],
+        "关闭全国平台第二批基地":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-第二批基地"
+        }],
+        "调用发展历程":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-发展历程"
+        }],
+        "关闭发展历程":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-发展历程"
+        }],
+        "调用各基地信息":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-各基地信息"
+        }],
+        "关闭各基地信息":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-各基地信息"
+        }],
+        "调用飞线效果":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-飞线效果"
+        }],
+        "关闭飞线效果":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-飞线效果"
+        }],
+        "调用省份名称":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-8个省份名称"
+        }],
+        "关闭省份名称":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-8个省份名称"
+        }],
+
+        "关闭统计分析基地名称":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-能效比-点光源-基地名称"
+        }],
+        "关闭统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-辐射量"
+        }],
+        "关闭统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-发电量"
+        }],
+        "关闭统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-利用小时数"
+        }],
+        "关闭统计分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-转换效率"
+        }],
+        "关闭统计分析衰减率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-衰减率"
+        }],
+        "关闭统计分析电价":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-电价"
+        }],
+        "关闭统计分析产值":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-产值"
+        }],
+
+
+
+        "关闭综合分析组件价格":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格"
+        }],
+        "关闭综合分析占比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比"
+        }],
+        "关闭综合分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率"
+        }],
+        "关闭综合分析逆变器分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析"
+        }],
+        "关闭综合分析支架分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析"
+        }],
+
+
+
+
+        "关闭综合分析组件价格第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格-第一批"
+        }],
+        "关闭综合分析占比第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比-第一批"
+        }],
+        "关闭综合分析转换效率第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率-第一批"
+        }],
+        "关闭综合分析逆变器分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析-第一批"
+        }],
+        "关闭综合分析支架分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析-第一批"
+        }],
+        "关闭综合分析发电能效分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-发电能效分析-第一批"
+        }],
+        "关闭综合分析成本分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-成本分析-第一批"
+        }],
+
+
+
+        "关闭综合分析组件价格第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格-第二批"
+        }],
+        "关闭综合分析占比第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比-第二批"
+        }],
+        "关闭综合分析转换效率第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率-第二批"
+        }],
+        "关闭综合分析逆变器分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析-第二批"
+        }],
+        "关闭综合分析支架分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析-第二批"
+        }],
+        "关闭综合分析发电能效分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-发电能效分析-第二批"
+        }],
+        "关闭综合分析成本分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-成本分析-第二批"
+        }]
+    },
+    "领跑基地":{
+        "基地定位":[{
+            "service_id": "camera.locate",
+            "time": 1000,
+            "pos_pose": [
+                {
+                    "x": 117.041981,
+                    "y": 34.876165,
+                    "z": 17064.113401,
+                    "course": 31.4235,
+                    "alpha": 89.2207,
+                    "roll": 0
+                }
+            ]
+        }],
+        "调用领跑基地标题":[{
+            "id": "202008151551",
+            "title": "顶部标题"
+        }],
+        "关闭领跑基地标题":[{
+            "id": "202008151551",
+            "title": "顶部标题"
+        }],
+        "光资源调用":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-光资源"
+        }],
+        "光资源关闭":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-光资源"
+        }],
+
+        "关闭统计分析基地名称":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-能效比-点光源-基地名称"
+        }],
+        "关闭统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-辐射量"
+        }],
+        "关闭统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-发电量"
+        }],
+        "关闭统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-利用小时数"
+        }],
+        "关闭统计分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-转换效率"
+        }],
+        "关闭统计分析衰减率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-衰减率"
+        }],
+        "关闭统计分析电价":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-电价"
+        }],
+        "关闭统计分析产值":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-产值"
+        }],
+
+
+        "关闭综合分析组件价格":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格"
+        }],
+        "关闭综合分析占比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比"
+        }],
+        "关闭综合分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率"
+        }],
+        "关闭综合分析逆变器分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析"
+        }],
+        "关闭综合分析支架分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析"
+        }],
+
+
+
+        "关闭综合分析组件价格第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格-第一批"
+        }],
+        "关闭综合分析占比第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比-第一批"
+        }],
+        "关闭综合分析转换效率第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率-第一批"
+        }],
+        "关闭综合分析逆变器分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析-第一批"
+        }],
+        "关闭综合分析支架分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析-第一批"
+        }],
+        "关闭综合分析发电能效分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-发电能效分析-第一批"
+        }],
+        "关闭综合分析成本分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-成本分析-第一批"
+        }],
+
+
+
+        "关闭综合分析组件价格第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格-第二批"
+        }],
+        "关闭综合分析占比第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比-第二批"
+        }],
+        "关闭综合分析转换效率第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率-第二批"
+        }],
+        "关闭综合分析逆变器分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析-第二批"
+        }],
+        "关闭综合分析支架分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析-第二批"
+        }],
+        "关闭综合分析发电能效分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-发电能效分析-第二批"
+        }],
+        "关闭综合分析成本分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-成本分析-第二批"
+        }]
+    },
+    "运行监测":{
+        "基地定位":[{
+            "service_id": "camera.locate",
+            "time": 1000,
+            "pos_pose": [
+                {
+                    "x": 117.041981,
+                    "y": 34.876165,
+                    "z": 17064.113401,
+                    "course": 31.4235,
+                    "alpha": 89.2207,
+                    "roll": 0
+                }
+            ]
+        }],
+        "调用能效比和光源点":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-能效比-点光源"
+        }],
+        "关闭能效比和光源点":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-能效比-点光源"
+        }],
+        "调用省份颜色":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-8个省份颜色"
+        }],
+        "关闭省份颜色":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-8个省份颜色"
+        }],
+
+        "关闭统计分析基地名称":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-能效比-点光源-基地名称"
+        }],
+        "关闭统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-辐射量"
+        }],
+        "关闭统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-发电量"
+        }],
+        "关闭统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-利用小时数"
+        }],
+        "关闭统计分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-转换效率"
+        }],
+        "关闭统计分析衰减率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-衰减率"
+        }],
+        "关闭统计分析电价":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-电价"
+        }],
+        "关闭统计分析产值":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-产值"
+        }],
+
+
+
+        "关闭综合分析组件价格":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格"
+        }],
+        "关闭综合分析占比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比"
+        }],
+        "关闭综合分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率"
+        }],
+        "关闭综合分析逆变器分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析"
+        }],
+        "关闭综合分析支架分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析"
+        }],
+
+
+
+        "关闭综合分析组件价格第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格-第一批"
+        }],
+        "关闭综合分析占比第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比-第一批"
+        }],
+        "关闭综合分析转换效率第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率-第一批"
+        }],
+        "关闭综合分析逆变器分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析-第一批"
+        }],
+        "关闭综合分析支架分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析-第一批"
+        }],
+        "关闭综合分析发电能效分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-发电能效分析-第一批"
+        }],
+        "关闭综合分析成本分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-成本分析-第一批"
+        }],
+
+
+
+        "关闭综合分析组件价格第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格-第二批"
+        }],
+        "关闭综合分析占比第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比-第二批"
+        }],
+        "关闭综合分析转换效率第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率-第二批"
+        }],
+        "关闭综合分析逆变器分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析-第二批"
+        }],
+        "关闭综合分析支架分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析-第二批"
+        }],
+        "关闭综合分析发电能效分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-发电能效分析-第二批"
+        }],
+        "关闭综合分析成本分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-成本分析-第二批"
+        }]
+
+    },
+    "统计分析":{
+        "小微定位":[{
+            "service_id": "camera.locate",
+            "time": 1000,
+            "pos_pose": [
+                {
+                    "x": 117.061206,
+                    "y": 34.825836,
+                    "z": 169.394829,
+                    "course": 3.8333,
+                    "alpha": 89.4212,
+                    "roll": 0
+                }
+            ]
+        }],
+        "调用统计分析基地名称":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-能效比-点光源-基地名称"
+        }],
+        "关闭统计分析基地名称":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-能效比-点光源-基地名称"
+        }],
+
+        "调用统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-统计分析-辐射量"
+        }],
+        "关闭统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-辐射量"
+        }],
+        "调用统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-统计分析-发电量"
+        }],
+        "关闭统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-发电量"
+        }],
+        "调用统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-统计分析-利用小时数"
+        }],
+        "关闭统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-利用小时数"
+        }],
+        "调用统计分析转换效率":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-统计分析-转换效率"
+        }],
+        "关闭统计分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-转换效率"
+        }],
+        "调用统计分析衰减率":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-统计分析-衰减率"
+        }],
+        "关闭统计分析衰减率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-衰减率"
+        }],
+        "调用统计分析逆变器转换率":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-统计分析-逆变器转换率"
+        }],
+        "关闭统计分析逆变器转换率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-逆变器转换率"
+        }],
+        "调用统计分析电价":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-统计分析-电价"
+        }],
+        "关闭统计分析电价":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-电价"
+        }],
+        "调用统计分析产值":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-统计分析-产值"
+        }],
+        "关闭统计分析产值":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-产值"
+        }],
+        "调用统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-统计分析-能效比"
+        }],
+        "关闭统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-能效比"
+        }],
+
+
+
+        "调用济宁统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-济宁-辐射量"
+        }],
+        "关闭济宁统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-济宁-辐射量"
+        }],
+        "调用济宁统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-济宁-发电量"
+        }],
+        "关闭济宁统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-济宁-发电量"
+        }],
+        "调用济宁统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-济宁-利用小时数"
+        }],
+        "关闭济宁统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-济宁-利用小时数"
+        }],
+        "调用济宁统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-济宁-能效比"
+        }],
+        "关闭济宁统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-济宁-能效比"
+        }],
+
+
+        "调用泗洪统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-泗洪-辐射量"
+        }],
+        "关闭泗洪统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-泗洪-辐射量"
+        }],
+        "调用泗洪统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-泗洪-发电量"
+        }],
+        "关闭泗洪统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-泗洪-发电量"
+        }],
+        "调用泗洪统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-泗洪-利用小时数"
+        }],
+        "关闭泗洪统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-泗洪-利用小时数"
+        }],
+        "调用泗洪统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-泗洪-能效比"
+        }],
+        "关闭泗洪统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-泗洪-能效比"
+        }],
+
+
+        "调用达拉特统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-达拉特-辐射量"
+        }],
+        "关闭达拉特统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-达拉特-辐射量"
+        }],
+        "调用达拉特统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-达拉特-发电量"
+        }],
+        "关闭达拉特统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-达拉特-发电量"
+        }],
+        "调用达拉特统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-达拉特-利用小时数"
+        }],
+        "关闭达拉特统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-达拉特-利用小时数"
+        }],
+        "调用达拉特统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-达拉特-能效比"
+        }],
+        "关闭达拉特统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-达拉特-能效比"
+        }],
+
+
+        "调用寿阳统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-寿阳-辐射量"
+        }],
+        "关闭寿阳统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-寿阳-辐射量"
+        }],
+        "调用寿阳统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-寿阳-发电量"
+        }],
+        "关闭寿阳统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-寿阳-发电量"
+        }],
+        "调用寿阳统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-寿阳-利用小时数"
+        }],
+        "关闭寿阳统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-寿阳-利用小时数"
+        }],
+        "调用寿阳统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-寿阳-能效比"
+        }],
+        "关闭寿阳统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-寿阳-能效比"
+        }],
+
+
+        "调用渭南统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-渭南-辐射量"
+        }],
+        "关闭渭南统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-渭南-辐射量"
+        }],
+        "调用渭南统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-渭南-发电量"
+        }],
+        "关闭渭南统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-渭南-发电量"
+        }],
+        "调用渭南统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-渭南-利用小时数"
+        }],
+        "关闭渭南统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-渭南-利用小时数"
+        }],
+        "调用渭南统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-渭南-能效比"
+        }],
+        "关闭渭南统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-渭南-能效比"
+        }],
+
+
+        "调用格尔木统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-格尔木-辐射量"
+        }],
+        "关闭格尔木统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-格尔木-辐射量"
+        }],
+        "调用格尔木统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-格尔木-发电量"
+        }],
+        "关闭格尔木统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-格尔木-发电量"
+        }],
+        "调用格尔木统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-格尔木-利用小时数"
+        }],
+        "关闭格尔木统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-格尔木-利用小时数"
+        }],
+        "调用格尔木统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-格尔木-能效比"
+        }],
+        "关闭格尔木统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-格尔木-能效比"
+        }],
+
+
+        "调用德令哈统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-德令哈-辐射量"
+        }],
+        "关闭德令哈统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-德令哈-辐射量"
+        }],
+        "调用德令哈统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-德令哈-发电量"
+        }],
+        "关闭德令哈统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-德令哈-发电量"
+        }],
+        "调用德令哈统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-德令哈-利用小时数"
+        }],
+        "关闭德令哈统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-德令哈-利用小时数"
+        }],
+        "调用德令哈统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-德令哈-能效比"
+        }],
+        "关闭德令哈统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-德令哈-能效比"
+        }],
+
+
+        "调用宝应统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-宝应-辐射量"
+        }],
+        "关闭宝应统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-宝应-辐射量"
+        }],
+        "调用宝应统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-宝应-发电量"
+        }],
+        "关闭宝应统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-宝应-发电量"
+        }],
+        "调用宝应统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-宝应-利用小时数"
+        }],
+        "关闭宝应统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-宝应-利用小时数"
+        }],
+        "调用宝应统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-宝应-能效比"
+        }],
+        "关闭宝应统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-宝应-能效比"
+        }],
+
+
+        "调用铜川统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-铜川-辐射量"
+        }],
+        "关闭铜川统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-铜川-辐射量"
+        }],
+        "调用铜川统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-铜川-发电量"
+        }],
+        "关闭铜川统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-铜川-发电量"
+        }],
+        "调用铜川统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-铜川-利用小时数"
+        }],
+        "关闭铜川统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-铜川-利用小时数"
+        }],
+        "调用铜川统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-铜川-能效比"
+        }],
+        "关闭铜川统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-铜川-能效比"
+        }],
+
+
+        "调用大同统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-大同-辐射量"
+        }],
+        "关闭大同统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-大同-辐射量"
+        }],
+        "调用大同统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-大同-发电量"
+        }],
+        "关闭大同统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-大同-发电量"
+        }],
+        "调用大同统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-大同-利用小时数"
+        }],
+        "关闭大同统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-大同-利用小时数"
+        }],
+        "调用大同统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-大同-能效比"
+        }],
+        "关闭大同统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-大同-能效比"
+        }],
+
+
+        "调用长治统计分析辐射量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-长治-辐射量"
+        }],
+        "关闭长治统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-长治-辐射量"
+        }],
+        "调用长治统计分析发电量":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-长治-发电量"
+        }],
+        "关闭长治统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-长治-发电量"
+        }],
+        "调用长治统计分析利用小时数":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-长治-利用小时数"
+        }],
+        "关闭长治统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-长治-利用小时数"
+        }],
+        "调用长治统计分析能效比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-长治-能效比"
+        }],
+        "关闭长治统计分析能效比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-长治-能效比"
+        }],
+
+
+
+        "关闭综合分析组件价格":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格"
+        }],
+        "关闭综合分析占比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比"
+        }],
+        "关闭综合分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率"
+        }],
+        "关闭综合分析逆变器分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析"
+        }],
+        "关闭综合分析支架分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析"
+        }],
+
+
+
+        "调用泗洪统计分析辐射量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-泗洪-辐射量-多选"
+        }],
+        "关闭泗洪统计分析辐射量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-泗洪-辐射量-多选"
+        }],
+        "调用泗洪统计分析发电量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-泗洪-发电量-多选"
+        }],
+        "关闭泗洪统计分析发电量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-泗洪-发电量-多选"
+        }],
+        "调用泗洪统计分析利用小时数多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-泗洪-利用小时数-多选"
+        }],
+        "关闭泗洪统计分析利用小时数多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-泗洪-利用小时数-多选"
+        }],
+        "调用泗洪统计分析能效比多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-泗洪-能效比-多选"
+        }],
+        "关闭泗洪统计分析能效比多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-泗洪-能效比-多选"
+        }],
+
+
+
+
+        "调用达拉特统计分析辐射量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-达拉特-辐射量-多选"
+        }],
+        "关闭达拉特统计分析辐射量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-达拉特-辐射量-多选"
+        }],
+        "调用达拉特统计分析发电量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-达拉特-发电量-多选"
+        }],
+        "关闭达拉特统计分析发电量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-达拉特-发电量-多选"
+        }],
+        "调用达拉特统计分析利用小时数多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-达拉特-利用小时数-多选"
+        }],
+        "关闭达拉特统计分析利用小时数多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-达拉特-利用小时数-多选"
+        }],
+        "调用达拉特统计分析能效比多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-达拉特-能效比-多选"
+        }],
+        "关闭达拉特统计分析能效比多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-达拉特-能效比-多选"
+        }],
+
+
+
+        "调用大同统计分析辐射量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-大同-辐射量-多选"
+        }],
+        "关闭大同统计分析辐射量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-大同-辐射量-多选"
+        }],
+        "调用大同统计分析发电量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-大同-发电量-多选"
+        }],
+        "关闭大同统计分析发电量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-大同-发电量-多选"
+        }],
+        "调用大同统计分析利用小时数多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-大同-利用小时数-多选"
+        }],
+        "关闭大同统计分析利用小时数多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-大同-利用小时数-多选"
+        }],
+        "调用大同统计分析能效比多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-大同-能效比-多选"
+        }],
+        "关闭大同统计分析能效比多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-大同-能效比-多选"
+        }],
+
+
+
+
+        "调用渭南统计分析辐射量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-渭南-辐射量-多选"
+        }],
+        "关闭渭南统计分析辐射量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-渭南-辐射量-多选"
+        }],
+        "调用渭南统计分析发电量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-渭南-发电量-多选"
+        }],
+        "关闭渭南统计分析发电量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-渭南-发电量-多选"
+        }],
+        "调用渭南统计分析利用小时数多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-渭南-利用小时数-多选"
+        }],
+        "关闭渭南统计分析利用小时数多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-渭南-利用小时数-多选"
+        }],
+        "调用渭南统计分析能效比多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-渭南-能效比-多选"
+        }],
+        "关闭渭南统计分析能效比多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-渭南-能效比-多选"
+        }],
+
+
+
+
+        "调用德令哈统计分析辐射量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-德令哈-辐射量-多选"
+        }],
+        "关闭德令哈统计分析辐射量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-德令哈-辐射量-多选"
+        }],
+        "调用德令哈统计分析发电量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-德令哈-发电量-多选"
+        }],
+        "关闭德令哈统计分析发电量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-德令哈-发电量-多选"
+        }],
+        "调用德令哈统计分析利用小时数多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-德令哈-利用小时数-多选"
+        }],
+        "关闭德令哈统计分析利用小时数多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-德令哈-利用小时数-多选"
+        }],
+        "调用德令哈统计分析能效比多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-德令哈-能效比-多选"
+        }],
+        "关闭德令哈统计分析能效比多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-德令哈-能效比-多选"
+        }],
+
+
+
+
+        "调用格尔木统计分析辐射量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-格尔木-辐射量-多选"
+        }],
+        "关闭格尔木统计分析辐射量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-格尔木-辐射量-多选"
+        }],
+        "调用格尔木统计分析发电量多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-格尔木-发电量-多选"
+        }],
+        "关闭格尔木统计分析发电量多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-格尔木-发电量-多选"
+        }],
+        "调用格尔木统计分析利用小时数多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-格尔木-利用小时数-多选"
+        }],
+        "关闭格尔木统计分析利用小时数多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-格尔木-利用小时数-多选"
+        }],
+        "调用格尔木统计分析能效比多选":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-格尔木-能效比-多选"
+        }],
+        "关闭格尔木统计分析能效比多选":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-格尔木-能效比-多选"
+        }]
+
+    },
+    "综合分析":{
+        "基地定位":[{
+            "service_id": "camera.locate",
+            "time": 1000,
+            "pos_pose": [
+                {
+                    "x": 117.041981,
+                    "y": 34.876165,
+                    "z": 17064.113401,
+                    "course": 31.4235,
+                    "alpha": 89.2207,
+                    "roll": 0
+                }
+            ]
+        }],
+        "调用综合分析组件价格":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-组件价格"
+        }],
+        "关闭综合分析组件价格":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格"
+        }],
+        "调用综合分析占比":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-占比"
+        }],
+        "关闭综合分析占比":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比"
+        }],
+        "调用综合分析转换效率":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-转换效率"
+        }],
+        "关闭综合分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率"
+        }],
+        "调用综合分析逆变器分析":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-逆变器分析"
+        }],
+        "关闭综合分析逆变器分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析"
+        }],
+        "调用综合分析支架分析":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-支架分析"
+        }],
+        "关闭综合分析支架分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析"
+        }],
+
+        "调用综合分析成本分析":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-成本分析"
+        }],
+        "关闭综合分析成本分析":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-成本分析"
+        }],
+
+
+
+        "调用综合分析组件价格第一批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-组件价格-第一批"
+        }],
+        "关闭综合分析组件价格第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格-第一批"
+        }],
+        "调用综合分析占比第一批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-占比-第一批"
+        }],
+        "关闭综合分析占比第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比-第一批"
+        }],
+        "调用综合分析转换效率第一批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-转换效率-第一批"
+        }],
+        "关闭综合分析转换效率第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率-第一批"
+        }],
+        "调用综合分析逆变器分析第一批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-逆变器分析-第一批"
+        }],
+        "关闭综合分析逆变器分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析-第一批"
+        }],
+        "调用综合分析支架分析第一批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-支架分析-第一批"
+        }],
+        "关闭综合分析支架分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析-第一批"
+        }],
+        "调用综合分析发电能效分析第一批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-发电能效分析-第一批"
+        }],
+        "关闭综合分析发电能效分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-发电能效分析-第一批"
+        }],
+        "调用综合分析成本分析第一批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-成本分析-第一批"
+        }],
+        "关闭综合分析成本分析第一批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-成本分析-第一批"
+        }],
+
+
+
+        "调用综合分析组件价格第二批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-组件价格-第二批"
+        }],
+        "关闭综合分析组件价格第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-组件价格-第二批"
+        }],
+        "调用综合分析占比第二批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-占比-第二批"
+        }],
+        "关闭综合分析占比第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-占比-第二批"
+        }],
+        "调用综合分析转换效率第二批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-转换效率-第二批"
+        }],
+        "关闭综合分析转换效率第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-转换效率-第二批"
+        }],
+        "调用综合分析逆变器分析第二批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-逆变器分析-第二批"
+        }],
+        "关闭综合分析逆变器分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-逆变器分析-第二批"
+        }],
+        "调用综合分析支架分析第二批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-支架分析-第二批"
+        }],
+        "关闭综合分析支架分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-支架分析-第二批"
+        }],
+        "调用综合分析发电能效分析第二批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-发电能效分析-第二批"
+        }],
+        "关闭综合分析发电能效分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-发电能效分析-第二批"
+        }],
+        "调用综合分析成本分析第二批":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-综合分析-成本分析-第二批"
+        }],
+        "关闭综合分析成本分析第二批":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-综合分析-成本分析-第二批"
+        }],
+
+
+
+
+        "调用综合分析基地名称":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-能效比-点光源-基地名称"
+        }],
+        "关闭综合分析基地名称":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-能效比-点光源-基地名称"
+        }],
+        "调用综合分析饼图基地名称":[{
+            "service_id": "cfg_system.run",
+            "name": "全国平台-饼图-各基地名称"
+        }],
+        "关闭综合分析饼图基地名称":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-饼图-各基地名称"
+        }],
+        "关闭统计分析基地名称":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-能效比-点光源-基地名称"
+        }],
+        "关闭统计分析辐射量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-辐射量"
+        }],
+        "关闭统计分析发电量":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-发电量"
+        }],
+        "关闭统计分析利用小时数":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-利用小时数"
+        }],
+        "关闭统计分析转换效率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-转换效率"
+        }],
+        "关闭统计分析衰减率":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-衰减率"
+        }],
+        "关闭统计分析电价":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-电价"
+        }],
+        "关闭统计分析产值":[{
+            "service_id": "cfg_system.stop",
+            "name": "全国平台-统计分析-产值"
+        }]
+    }
+}

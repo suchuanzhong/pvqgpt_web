@@ -1,0 +1,229 @@
+@import './common.css';
+@font-face {
+  font-family: "时尚中黑简体";
+  src: url("./../font/时尚中黑简体.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "euro_regular";
+  src: url("./../font/euro_regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-width: 1600px;
+}
+
+.el-carousel__arrow {
+    width: 60px;
+    height: 60px;
+}
+
+.el-carousel__arrow i {
+    font-size: 20px;
+}
+
+.is-active .el-carousel__button {
+    width: 40px;
+    height: 6px;
+    background-color: #1da63b;
+}
+
+.el-carousel__button {
+    width: 20px;
+    height: 6px;
+}
+
+.el-carousel__indicator--horizontal {
+    padding: 12px 3px;
+}
+
+.zui-main {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.el-tabs__item:hover,
+.el-tabs__item.is-active {
+    color: #1bac6b;
+}
+
+.el-tabs__active-bar {
+    background-color: #1bac6b;
+}
+
+.scroller-y .el-scrollbar__wrap{
+  overflow-x: auto;
+}
+.p-t-100{
+  padding-top: 100px;
+}
+
+.num{
+  font-family: "euro_regular"!important;
+}
+.zui-icon-back{
+  display: inline-block;
+  width: 26px;
+  height: 22px;
+  cursor: pointer;
+  background: url(../img/back.png)no-repeat center center;
+}
+.pres{
+  position: relative;
+}
+.no-data{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  color:#999;
+  transform: translate(-50%,-50%);
+}
+
+
+
+.big-search {
+  margin: 70px auto 15px;
+  width: 840px;
+  overflow: hidden;
+}
+.big-search .el-input__inner{   
+  border-radius: 25px;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 30px;
+  padding-right: 55px;
+  font-size: 18px;
+  border: 1px solid #999999;
+  
+  }
+  .big-search .el-input__inner:focus{
+    /** background: url(../img/pageInput.png)no-repeat;
+    //  background-size: 100% 100%;**/
+     border-color:#1bac6b;
+  }
+  .big-search .el-input__icon{
+    font-size: 20px;
+    width: 55px;
+  }
+  .bdPage{
+    margin-top: 40px;
+    text-align: center;
+  }
+  .bdPage.el-pagination li{
+    color:#666666 !important;
+    font-weight: normal;
+    font-size: 14px;
+    }
+
+.bdPage.el-pagination button:hover{
+  color:#1da63b !important;
+}
+    .bdPage.el-pagination li:hover,
+    .bdPage.el-pagination.is-background .el-pager li:not(.disabled):hover{
+      color:#1da63b !important;
+    }
+    .bdPage.el-pagination.is-background .el-pager li.active:hover{
+      color:#fff;
+    }
+  .bdPage.el-pagination.is-background .btn-next,
+   .bdPage.el-pagination.is-background .btn-prev,
+   .bdPage.el-pagination.is-background .el-pager li{
+    background: #fff;
+    color:#666666 !important;
+    border: 1px solid #dcdfe6;
+  }
+  .bdPage.el-pagination.is-background .el-pager li:not(.disabled).active,
+  .el-pagination.is-background .el-pager li:not(.disabled).active{
+    color:#fff !important;
+    background:linear-gradient(90deg,rgba(29,166,59,1),rgba(25,177,151,1)) !important;
+    border-radius:1px;
+  }
+
+
+  .el-image__error, .el-image__placeholder{
+    background: #fff;
+  }
+
+
+  .contrast-input .el-input__inner{
+    width: 300px;
+    padding-left: 80px;
+    text-align: right;
+  }
+  .select-prefix{
+    color:#666666;
+    line-height: 20px;
+  }
+  .contrast-input .el-input__inner{
+    height:35px;
+    line-height: 35px;
+  }
+  .contrast-date .el-input__inner{
+    width: 200px;
+  }
+  .select-prefix img{
+    vertical-align: text-top;margin-right: 4px;
+  }
+  .el-select-dropdown__item.selected{
+    color:#1bac6b;
+  }
+  .el-select .el-input.is-focus .el-input__inner,
+  .el-select .el-input__inner:focus{
+    border-color: #1bac6b;
+  }
+  .zui-icon-date {
+    background: url(../img/date.png) no-repeat;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+  }
+  .zui-icon-date-month::after{
+    content: "月份";
+    width: 2em;
+    display: inline-block;
+    vertical-align: text-top;
+    line-height: 0;
+    font-style: normal;
+    color: #666;
+    margin-left: 14px;
+  }
+  .zui-icon-date-year::after{
+    content: "年份";
+    width: 2em;
+    display: inline-block;
+    vertical-align: text-top;
+    line-height: 0;
+    font-style: normal;
+    color: #666;
+    margin-left: 14px;
+  }
+  
+ /*.contrast-date .el-input__suffix-inner .el-input__icon{
+    font-family: element-icons!important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    vertical-align: baseline;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    transform: rotateZ(180deg);
+
+  }
+ 
+  .contrast-date .el-input__suffix-inner .el-input__icon::before {
+    content: "\e6e1";
+}
+.contrast-date .el-input__inner:focus .el-input__suffix-inner .el-input__icon{
+  transform: rotateZ(0);
+  transition: all .2s;
+}*/

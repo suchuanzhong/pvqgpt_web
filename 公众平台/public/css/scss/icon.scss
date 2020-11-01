@@ -1,0 +1,99 @@
+.my-icon{
+  width:24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+  
+}
+.my-icon-home {
+  background: url('/img/icon/home.png')no-repeat;
+  background-size: 100% 100%;
+}
+.my-icon-monitor{
+  background: url('/img/icon/monitor.png')no-repeat;
+  background-size: 100% 100%;
+}
+.my-icon-analysis{
+  background: url('/img/icon/analysis.png')no-repeat;
+  background-size: 100% 100%;
+}
+.my-icon-report{
+  background: url('/img/icon/report.png')no-repeat;
+  background-size: 100% 100%;
+}
+.my-icon-operation_re{
+  background: url('/img/icon/operation_re.png')no-repeat;
+  background-size: 100% 100%;
+}
+.my-icon-data{
+  background: url('/img/icon/icons.png')no-repeat;
+}
+.my-icon-comprehensive{
+  background: url('/img/icon/comprehensive.png')no-repeat;
+  background-size: 100% 100%;
+}
+.my-icon-system{
+  background: url('/img/icon/system.png')no-repeat;
+  background-size: 100% 100%;
+}
+.el-menu-item:hover,.el-submenu__title:hover,.is-active{
+  .my-icon-home{
+    background: url('/img/icon/home1.png')no-repeat ;
+    background-size: 100% 100%;
+  }
+  .my-icon-monitor{
+    background: url('/img/icon/monitor1.png')no-repeat;
+    background-size: 100% 100%;
+  }
+  .my-icon-analysis{
+    background: url('/img/icon/analysis1.png')no-repeat;
+    background-size: 100% 100%;
+  }
+  .my-icon-report{
+    background: url('/img/icon/report1.png')no-repeat;
+    background-size: 100% 100%;
+  }
+  .my-icon-operation_re{
+    background: url('/img/icon/operation_re1.png')no-repeat;
+    background-size: 100% 100%;
+  }
+  .my-icon-data{
+    background: url('/img/icon/icons.png')no-repeat;
+  }
+  .my-icon-comprehensive{
+    background: url('/img/icon/comprehensive1.png')no-repeat;
+    background-size: 100% 100%;
+  }
+  .my-icon-system{
+    background: url('/img/icon/system1.png')no-repeat;
+    background-size: 100% 100%;
+  }
+  
+}
+.my-icon-user{
+  background: url('/img/icon/user.png')no-repeat;
+  width: 32px;
+  height: 30px;
+}
+.my-icon-pwd{
+  background: url('/img/icon/pwd.png')no-repeat;margin-left: 30px;cursor: pointer;
+}
+.my-icon-exit{
+  background: url('/img/icon/exit.png')no-repeat;
+  width: 32px;cursor: pointer;
+}
+.my-icon-dot{
+  position: relative;
+}
+.my-icon-dot::before{
+  content:"";
+  width: 3px;
+  height: 3px;
+  border-radius: 5px;
+  background: #7486a3;
+  display: inline-block;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
